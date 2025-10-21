@@ -1,1 +1,2 @@
-# StoreDjango
+# TiendaDjango
+tienda
